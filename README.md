@@ -16,6 +16,16 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Project details - 
+
+This Typing test Challenge is created with NextJS and here are the app features - 
+
+- User will be provided with a random text paragraph or the user can c/p his own choice of the paragraph.
+- User can select the time duration of the test it can be 1 m, 2m 5m, or custom.
+- For each correct word, he will get 1 point for each incorrect word he types he will receive 0 points.
+- At the end of the test, the user will be presented with his score which is his typing accuracy and speed.
+
+
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
