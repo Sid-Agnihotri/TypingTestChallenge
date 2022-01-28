@@ -1,0 +1,22 @@
+/** @format */
+
+.main {
+	width: 80rem;
+	margin-top: 5rem;
+	border: solid rgb(233, 231, 231) 0.2px;
+	background-color: rgb(252, 251, 249);
+	border-radius: 10px;
+
+	padding: 1rem;
+}
+
+.tryAgain {
+	width: 40rem;
+	height: 30rem;
+	margin-top: 5rem;
+	border: solid rgb(233, 231, 231) 0.2px;
+	background-color: rgb(252, 251, 249);
+	border-radius: 10px;
+
+	padding: 1rem;
+}
