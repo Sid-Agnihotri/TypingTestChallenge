@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Project details - 
 
 This Typing test Challenge is created with NextJS and here are the app features - 
-
+- This app is created using functional components and Hooks (useState). 
 - User will be provided with a random text paragraph or the user can c/p his own choice of the paragraph.
 - User can select the time duration of the test it can be 1 m, 2m 5m, or custom.
 - For each correct word, he will get 1 point for each incorrect word he types he will receive 0 points.
